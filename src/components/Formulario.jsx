@@ -1,5 +1,4 @@
 /* eslint-disable react/prop-types */
-/* eslint-disable no-unused-vars */
 import { useState, useEffect } from 'react'
 import styled from '@emotion/styled'
 import Error from './error'
